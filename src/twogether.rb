@@ -11,3 +11,5 @@ cells =
 board.set_grid(cells)
 
 puts board.to_s
+
+
