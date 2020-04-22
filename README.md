@@ -46,6 +46,7 @@ __ENTER IN WHAT CODES USED__
 ![](./docs/Twogether_Flow_Chart.jpg)
 
 5a-
+input here please tom, thnks 
 
 6a- First significant change for my app 'Twogether' was changing from using coloured words, to cards. Originally I was going to create and app that listed 5 words (Red, Blue, Yellow, Green, Purple) and each of those words would print randomly to the screen in different colours. (See image below)
 
